@@ -1,0 +1,43 @@
+siruta judet,nume jud,siruta-zona,nume zona
+234,Judetul Ilfov,886,Bucuresti - Ilfov
+403,Municipiul Bucuresti,886,Bucuresti - Ilfov
+10,Judetul Alba,877,Centru
+83,Judetul Brasov,877,Centru
+145,Judetul Covasna,877,Centru
+190,Judetul Harghita,877,Centru
+261,Judetul Mures,877,Centru
+323,Judetul Sibiu,877,Centru
+47,Judetul Bacau,813,Nord-Est
+74,Judetul Botosani,813,Nord-Est
+225,Judetul Iasi,813,Nord-Est
+270,Judetul Neamt,813,Nord-Est
+332,Judetul Suceava,813,Nord-Est
+378,Judetul Vaslui,813,Nord-Est
+56,Judetul Bihor,868,Nord-Vest
+65,Judetul Bistrita-Nasaud,868,Nord-Vest
+127,Judetul Cluj,868,Nord-Vest
+243,Judetul Maramures,868,Nord-Vest
+314,Judetul Salaj,868,Nord-Vest
+305,Judetul Satu Mare,868,Nord-Vest
+38,Judetul Arges,831,Sud - Muntenia
+519,Judetul Calarasi,831,Sud - Muntenia
+154,Judetul Dambovita,831,Sud - Muntenia
+528,Judetul Giurgiu,831,Sud - Muntenia
+216,Judetul Ialomita,831,Sud - Muntenia
+298,Judetul Prahova,831,Sud - Muntenia
+341,Judetul Teleorman,831,Sud - Muntenia
+92,Judetul Braila,822,Sud-Est
+109,Judetul Buzau,822,Sud-Est
+136,Judetul Constanta,822,Sud-Est
+172,Judetul Galati,822,Sud-Est
+369,Judetul Tulcea,822,Sud-Est
+396,Judetul Vrancea,822,Sud-Est
+163,Judetul Dolj,840,Sud-Vest - Oltenia
+181,Judetul Gorj,840,Sud-Vest - Oltenia
+252,Judetul Mehedinti,840,Sud-Vest - Oltenia
+289,Judetul Olt,840,Sud-Vest - Oltenia
+387,Judetul Valcea,840,Sud-Vest - Oltenia
+29,Judetul Arad,859,Vest
+118,Judetul Caras-Severin,859,Vest
+207,Judetul Hunedoara,859,Vest
+350,Judetul Timis,859,Vest
